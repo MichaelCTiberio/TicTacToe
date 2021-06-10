@@ -1,7 +1,9 @@
 # TicTacToe
+
 My own repository to learn GitHub tools, dabble in JavaScript, and play with ideas of Continuous Deployment.
 
 ## Set up pipeline
+
 - [ ] Set up a JavaScript test framework.
 - [ ] Add a test for some trivial functionality.
 - [ ] Ensure test runs and fails.
@@ -11,6 +13,6 @@ My own repository to learn GitHub tools, dabble in JavaScript, and play with ide
 - [ ] Commit passing test.
 - [ ] Ensure test runs, passes, and the commit is merged.
 - [ ] Add a test for new, trivial functionality.
-- [ ] Ensure new test runs and fails. 
+- [ ] Ensure new test runs and fails.
 - [ ] Commit failing test.
-- [ ] Enusre test runs, fails, an the commit is not merged.
+- [ ] Ensure test runs, fails, an the commit is not merged.
